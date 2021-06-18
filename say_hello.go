@@ -12,6 +12,6 @@ type Value struct {
 	a, b, c int
 }
 
-func (n Value) multiplication() int {
+func (n Value) Multiplication() int {
 	return n.a * n.b * n.c
 }
