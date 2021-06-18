@@ -9,9 +9,9 @@ type SumCalc interface {
 }
 
 type Value struct {
-	a, b, c int
+	A, B, C int
 }
 
 func (n Value) Multiplication() int {
-	return n.a * n.b * n.c
+	return n.A * n.B * n.C
 }
