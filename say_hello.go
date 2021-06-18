@@ -5,6 +5,7 @@ func SayHello() string {
 }
 
 type SumCalc interface {
+	multication() int
 }
 
 type Value struct {
