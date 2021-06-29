@@ -1,11 +1,11 @@
 package go_say_hello
 
-func SayHello() string {
-	return "hello maiing"
+func SayHello(name string) string {
+	return "hello " + name
 }
 
 type SumCalc interface {
-	multication() int
+	Multication() int
 }
 
 type Value struct {
