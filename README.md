@@ -1,2 +1,2 @@
 # go-say-hello
-this repo is my learning unit testing in go 
+this repo for my lesson unit testing in go 
